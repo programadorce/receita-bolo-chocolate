@@ -39,9 +39,13 @@ p {
 # Explicação dos Estilos:
 
 div: Aplica a fonte Verdana a todos os elementos <div> na página.
+
 h1: Define o tamanho da fonte para 22px e alinha o texto ao centro.
+
 h2: Altera o tamanho da fonte para 18px, altera a cor para um tom de vermelho (#88100f) e centraliza o texto.
+
 h3: Define o tamanho da fonte para 16px, sublinha o texto e aplica a cor vermelha.
+
 p: Aplica uma fonte de 14px e ajusta o espaçamento entre as linhas para 28px, melhorando a legibilidade do texto.
 
 # Objetivos de Aprendizado
