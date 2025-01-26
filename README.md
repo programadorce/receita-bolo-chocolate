@@ -57,3 +57,6 @@ Explorar como estilizar cabeçalhos (h1, h2, h3) e parágrafos (p).
 Experimentar o impacto de pequenas mudanças no design da página web.
 
 Este projeto é uma maneira simples de começar a aprender CSS e explorar como ele pode ser utilizado para transformar a aparência de uma página.
+
+# Link 
+[link do exercício] (https://programadorce.github.io/receita-bolo-chocolate/)
