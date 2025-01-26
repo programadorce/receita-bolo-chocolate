@@ -38,7 +38,7 @@ p {
 
 # Explicação dos Estilos:
 
-div: Aplica a fonte Verdana a todos os elementos <div> na página.
+div: Aplica a fonte Verdana a todos os elementos ```<div>``` na página.
 
 h1: Define o tamanho da fonte para 22px e alinha o texto ao centro.
 
